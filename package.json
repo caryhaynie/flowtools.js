@@ -1,0 +1,13 @@
+{
+  "name" : "flow.js",
+  "description": "flow.js gives game to your apis.",
+  "version" : "0.0.1",
+  "main" : "index.js",
+  "scripts" : {
+    "test" : "./node_modules/mocha/bin/mocha -R spec"
+  },
+  "devDependencies" : {
+    "mocha" : "latest",
+    "expect.js" : "latest"
+  }
+}
