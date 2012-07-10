@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url" : "https://github.com/caryhaynie/flowtool.js.git"
+    "url" : "https://github.com/caryhaynie/flowtools.js.git"
   },
   "devDependencies" : {
     "mocha" : "latest",
