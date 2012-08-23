@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/caryhaynie/flowtools.js.png)](http://travis-ci.org/caryhaynie/flowtools.js)
 # flowtools.js -- tools for people who write async tools.
 
 ## installing 
